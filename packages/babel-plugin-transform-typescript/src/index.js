@@ -48,7 +48,7 @@ export default declare(
     api,
     {
       jsxPragma = "React",
-      allowNamespaces = false,
+      allowNamespaces = true,
       allowDeclareFields = false,
     },
   ) => {
